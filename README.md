@@ -1,2 +1,2 @@
 # universe
-personal package universe
+personal package universe - https://johnmackintosh.r-universe.dev/
