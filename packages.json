@@ -1,0 +1,34 @@
+[
+    {
+        "package": "runcharter",
+        "url": "https://github.com/johnmackintosh/runcharter"
+    },
+    {
+        "package": "cusumcharter",
+        "url": "https://github.com/johnmackintosh/cusumcharter"
+    },
+    {
+        "package": "rockthemes",
+        "url": "https://github.com/johnmackintosh/rockthemes"
+    },
+    {
+        "package": "spccharter",
+        "url": "https://github.com/johnmackintosh/spccharter"
+    },
+    {
+        "package": "juncture",
+        "url": "https://github.com/johnmackintosh/juncture"
+    },
+    {
+        "package": "patientcounter",
+        "url": "https://github.com/johnmackintosh/patientcounter"
+    },
+    {
+        "package": "popthemes",
+        "url": "https://github.com/johnmackintosh/popthemes"
+    },
+    {
+        "package": "metallicaRt",
+        "url": "https://github.com/johnmackintosh/metallicart"
+    }
+]
